@@ -1,15 +1,5 @@
-# web-app
-
-A Clojure library designed to ... well, that part is up to you.
+# Clojure Web App
+Boilerplate code for a web application with clojure
 
 ## Usage
-
-FIXME
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
-# clojure-web-app
+Using HTTP-kit
